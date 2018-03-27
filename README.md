@@ -10,3 +10,5 @@ ZCZC W03 Sudah Melakukan W03-demos
 ZCZC W04 Sudah Melakukan W04-demos
 
 ZCZC W05 Sudah Melakukan W05-demos
+
+ZCZC W06 Persiapan UTS
