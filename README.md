@@ -14,3 +14,5 @@ ZCZC W05 Sudah Melakukan W05-demos
 ZCZC W06 Sudah Melakukan W06-demos
 
 ZCZC W07 Sudah Melakukan W07-demos
+
+ZCZC W08 Sudah Melakukan W08-demos
